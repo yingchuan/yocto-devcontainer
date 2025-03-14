@@ -43,5 +43,6 @@ RUN apt update && apt -y install \
   unzip \
   wget \
   xz-utils \
-  zstd
+  zstd \
+  bear
 
