@@ -44,5 +44,6 @@ RUN apt update && apt -y install \
   wget \
   xz-utils \
   zstd \
+  tmux \
   bear
 
